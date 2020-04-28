@@ -5,7 +5,10 @@ tap "homebrew/core"
 tap "homebrew/services"
 tap "rcmdnk/file"
 brew "azure-cli"
-brew "controlplane"
+
+#brew "controlplane" 
+# controlplane not working
+
 brew "bash-completion"
 brew "git"
 brew "go"
