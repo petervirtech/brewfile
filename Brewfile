@@ -9,6 +9,9 @@ brew "azure-cli"
 #brew "controlplane" 
 # controlplane not working
 
+#TODO: add browersaurus
+
+
 brew "bash-completion"
 brew "git"
 brew "go"
