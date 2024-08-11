@@ -4,7 +4,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
 tap "rcmdnk/file"
-brew "azure-cli"
+#brew "azure-cli"
 
 #brew "controlplane" 
 # controlplane not working
